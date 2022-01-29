@@ -44,8 +44,8 @@ CREATE TABLE IF NOT EXISTS `reg` (
 --
 
 INSERT INTO `reg` (`id`, `name`, `email`, `mob`, `username`, `password`) VALUES
-(3, 'hamna', 'hamna123ammu@gmail.com', '9567896364', 'hamna', 'Hamnammu#001'),
-(11, 'henna', 'henna@gmail.com', '9961473093', 'hennaka', 'Henna#001');
+(3, 'hamna', 'nil', 'nil', 'hamna', 'nil'),
+(11, 'henna', 'nil', 'nil', 'hennaka', 'Henna#001');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
