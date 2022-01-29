@@ -10,7 +10,7 @@
 <title>Form Validation</title>
 </head>
 <body>
-<h2>FORM VALIDATION</h2>
+<h2>SIGNUP HERE!!</h2>
 <form name="form" action="" method="POST">
     <table>
         <tr>
